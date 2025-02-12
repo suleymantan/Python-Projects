@@ -1,15 +1,25 @@
+"""Basic Input/Output & Data Types (20 Projects)
+ * Hello World: Print "Hello, World!" to the console.
+ * Name and Age: Ask the user for their name and age, then print a greeting.
+ * Simple Calculator: Perform basic arithmetic operations (+, -, *, /) on two user-input numbers.
+ * Area of a Rectangle: Calculate the area of a rectangle given length and width.
+ * Perimeter of a Circle: Calculate the perimeter of a circle given the radius.
+ * Temperature Converter: Convert Celsius to Fahrenheit or vice-versa.
+ * Even or Odd: Determine if a number entered by the user is even or odd.
+ * Largest of Two: Find the larger of two numbers entered by the user.
+ * Simple Interest Calculator: Calculate simple interest.
+ * Compound Interest Calculator: Calculate compound interest.
+ * Basic String Manipulation: Reverse a string, find its length, etc.
+ * Vowel Counter: Count the number of vowels in a string.
+ * Palindrome Checker: Check if a string is a palindrome.
+ * Word Counter: Count the number of words in a sentence.
+ * Character Counter: Count the occurrences of each character in a string.
+ * Data Type Checker: Determine the data type of a user-entered value.
+ * Number Guessing Game (Basic): The computer generates a number, and the user guesses.
+ * Rock, Paper, Scissors (Basic): A simple text-based version.
+ * Mad Libs Generator: A text-based Mad Libs game.
+ * Unit Converter (Various): Convert between different units (e.g., inches to centimeters, kilograms to pounds).
 """
-
-* Basic String Manipulation: Reverse a string, find its length, etc.
-* Vowel Counter: Count the number of vowels in a string.
-* Palindrome Checker: Check if a string is a palindrome.
-* Word Counter: Count the number of words in a sentence.
-* Character Counter: Count the occurrences of each character in a string.
-* Data Type Checker: Determine the data type of a user-entered value.
-* Number Guessing Game (Basic): The computer generates a number, and the user guesses.
-* Rock, Paper, Scissors (Basic): A simple text-based version.
-* Mad Libs Generator: A text-based Mad Libs game.
-* Unit Converter (Various): Convert between different units (e.g., inches to centimeters, kilograms to pounds)."""
 
 # * Hello World: Print "Hello, World!" to the console.
 #print("Hello World")
