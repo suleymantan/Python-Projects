@@ -1,0 +1,10 @@
+Reading from a File: Read data from a text file.
+Writing to a File: Write data to a text file.
+Copying a File: Copy the contents of one file to another.
+Counting Words in a File: Count the number of words in a text file.
+Finding Specific Words in a File: Find specific words in a text file.
+Storing Data in a File: Store data (e.g., from a program) in a file.
+Reading and Writing CSV Files: Work with CSV files.
+Reading and Writing JSON Files: Work with JSON files.
+Simple Text Editor: Create a basic text editor.
+File Organizer: Organize files based on their type or name.
