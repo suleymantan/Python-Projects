@@ -1,7 +1,7 @@
-Basic Input/Output & Data Types
+Basic Input/Output & Data Types \n
 
-Hello World: Print "Hello, World!" to the console.
-Name and Age: Ask the user for their name and age, then print a greeting.
+Hello World: Print "Hello, World!" to the console.\n
+Name and Age: Ask the user for their name and age, then print a greeting.\n
 Simple Calculator: Perform basic arithmetic operations (+, -, *, /) on two user-input numbers.
 Area of a Rectangle: Calculate the area of a rectangle given length and width.
 Perimeter of a Circle: Calculate the perimeter of a circle given the radius.
