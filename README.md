@@ -66,7 +66,7 @@ Common Elements: Find common elements between two lists.
 Merging Lists: Merge two lists into one.
 Stack Implementation: Implement a stack data structure using a list.
 Queue Implementation: Implement a queue data structure using a list.
----------------------------------------------------------------------------------
+---------------------------------------------------------------------------------\n
 Functions 
 
 Function for Area Calculation: Create functions for calculating the area of different shapes.
